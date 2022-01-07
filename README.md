@@ -14,4 +14,4 @@
 * [SteamManifestFixer](https://github.com/ioncodes/SteamManifestFixer) - Patches Steam to download depot files without manifest data
 * [pooldump](https://github.com/ioncodes/pooldump) - Allows you to dump all nonpaged `BigPool`s from kernel
 * [sbb](https://github.com/ioncodes/sbb) - A commandline tool that allows you to check the public transportation connection via SBB
-* [JodelAPI](https://github.com/ioncodes/JodelAPI) - A wrapper for Jodel's API written
+* [JodelAPI](https://github.com/ioncodes/JodelAPI) - A wrapper for Jodel's API
