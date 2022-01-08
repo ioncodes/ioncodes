@@ -6,7 +6,7 @@
 * [long_night](https://github.com/ioncodes/long_night) - A collection of themes based on pastel colors, created for reverse engineers
 * [RACEAC](https://github.com/ioncodes/RACEAC) - Proof of concept code for an EasyAntiCheat race condition that allowed you to tamper resource data
 * [rw](https://github.com/ioncodes/rw) - A kernel driver exposing read/write capabilities to usermode
-* [dlsym_hook](https://github.com/ioncodes/dlsym_hook) - Rewrites a binary statically by lifting the instructions to LLVM, hook a function and compile it back
+* [dlsym_hook](https://github.com/ioncodes/dlsym_hook) - Rewrites a binary statically by lifting the instructions to LLVM, hooking a function and compiling it back
 * [DeadByDaylight](https://github.com/ioncodes/DeadByDaylight) - Dead by Daylight research material gathered while reverse engineering the game
 * [Maze](https://github.com/ioncodes/Maze) - Cheats for "Maze", LiveOverflow's game hacking challenge
 * [dbgmon](https://github.com/ioncodes/dbgmon) - Reverse engineered implementation of DbgView's usermode logger
