@@ -1,4 +1,4 @@
-👋 Looks like you found my profile!  
+👋 Looks like you've found my profile!  
 🐿️ I'm a **reverse engineer** and **full stack developer** that mostly dabbles around in **Rust**, **C++** and **Assembly**.  
 📝 Here's a more exhaustive list of my work (excluding the pinned highlights):  
 
