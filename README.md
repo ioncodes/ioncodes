@@ -2,7 +2,7 @@
 🐿️ I'm a **reverse engineer** and **full stack developer** that mostly dabbles around in **Rust**, **C++** and **Assembly**.  
 📝 Here's a more exhaustive list of my work (excluding the pinned highlights):  
 
-* [ceload](https://github.com/ioncodes/ceload) - A tool that loads the signed driver `dbk64.sys` and grabs a handle to it
+* [vacation3-emu](https://github.com/ioncodes/vacation3-emu) - An emulator that deobfuscates and decrypts VAC3 anticheat modules
 * [long_night](https://github.com/ioncodes/long_night) - A collection of themes based on pastel colors, created for reverse engineers
 * [RACEAC](https://github.com/ioncodes/RACEAC) - Proof of concept code for an EasyAntiCheat race condition that allowed you to tamper resource data
 * [rw](https://github.com/ioncodes/rw) - A kernel driver exposing read/write capabilities to usermode
