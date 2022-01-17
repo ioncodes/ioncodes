@@ -1,6 +1,7 @@
 👋 Looks like you've found my profile!  
 🐿️ I'm a **reverse engineer** and **full stack developer** that mostly dabbles around in **Rust**, **C++** and **Assembly**.  
-📝 Here's a more exhaustive list of my work (excluding the pinned highlights):  
+📝 You can contact me either on [Twitter](https://twitter.com/layle_ctf) or on Discord via `Layle#6969`.  
+💻 Here's a more exhaustive list of my work (excluding the pinned highlights):  
 
 * [vacation3-emu](https://github.com/ioncodes/vacation3-emu) - An emulator that deobfuscates and decrypts VAC3 anticheat modules
 * [long_night](https://github.com/ioncodes/long_night) - A collection of themes based on pastel colors, created for reverse engineers
