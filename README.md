@@ -14,6 +14,7 @@
 * [docker-compiler-explorer](https://github.com/ioncodes/docker-compiler-explorer) - Dockerized version of Godbolt's Compiler Explorer preconfigured with C, C++, Rust and LLVM
 * [dbgmon](https://github.com/ioncodes/dbgmon) - Reverse engineered implementation of DbgView's usermode logger
 * [Curveball](https://github.com/ioncodes/Curveball) - Proof of concept code for CVE-2020-0601 also known as the "CryptoAPI exploit"
+* [BlueGate](https://github.com/ioncodes/BlueGate) - PoC for the Remote Desktop Gateway vulnerability - CVE-2020-0609 & CVE-2020-0610
 * [SteamManifestFixer](https://github.com/ioncodes/SteamManifestFixer) - Patches Steam to download depot files without manifest data
 * [pooldump](https://github.com/ioncodes/pooldump) - Allows you to dump all nonpaged `BigPool`s from kernel
 * [sbb](https://github.com/ioncodes/sbb) - A commandline tool that allows you to check the public transportation connection via SBB
