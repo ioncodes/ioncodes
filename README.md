@@ -1,6 +1,11 @@
-👋 Looks like you've found my profile!  
-🐿️ I'm a **reverse engineer** and **full stack developer** that mostly dabbles around in **Rust**, **C++** and **Assembly**.  
-📝 You can contact me either on [Twitter](https://twitter.com/layle_ctf) or on Discord via `Layle#6969`.  
+👋 Looks like you've found my profile! Enjoy your stay!  
+💣 I'm a **reverse engineer** and **full stack developer** that mostly dabbles around in **Rust**, **C++** and various **Assembly** languages.  
+👹 I spend most of me free time working on low-level projects such as but not limited to reverse engineering software (malware, anti cheats, games, ...), writing emulatores, creating reversing & exploit development related tooling and implementing compiler related programs (usually for obfuscation and/or deobfuscation).  
+🕹️ I retired from playing CTFs back in 2022 after co-founding and playing alongside [@organizers](https://ctftime.org/team/42934/) but occasionally help out or look into challenges out of curiosity.  
+🪪 Most notable credentials are my team's (through *excusemewtf* and *organizers*) CTF rankings along with my personal ranking on [HackTheBox](https://app.hackthebox.com/profile/7533) (retired; peaked at global #2), along with the projects on my GitHub.  
+🏢 I'm currently employed as **penetration tester** and mostly focus on Active Directory environments.  
+✉️ You can contact me either on [Twitter](https://twitter.com/layle_ctf) or on Discord via `Layle#6969`.  
+🕸️ I infrequently blog about my shenanigans over [on my blog layle.me](https://layle.me).  
 💻 Here's a more exhaustive list of my work (excluding the pinned highlights):  
 
 * [vacation3-emu](https://github.com/ioncodes/vacation3-emu) - An emulator that deobfuscates and decrypts VAC3 anticheat modules
