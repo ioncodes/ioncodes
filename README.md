@@ -1,6 +1,6 @@
 👋 Looks like you've found my profile! Enjoy your stay (and don't take me too serious ^\_^)!  
 💣 I'm a **reverse engineer** and **full stack developer** that mostly dabbles around in **Rust**, **C++** and various **Assembly** languages.  
-👹 I spend most of me free time working on low-level projects such as but not limited to reverse engineering software (malware, anti cheats, games, ...), writing emulatores, creating reversing & exploit development related tooling and implementing compiler related programs (usually for obfuscation and/or deobfuscation).  
+👹 I spend most of me free time working on low-level projects such as but not limited to reverse engineering software (malware, anti cheats, games, ...), writing emulators, creating reversing & exploit development related tooling and implementing compiler related programs (usually for obfuscation and/or deobfuscation).  
 🕹️ I retired from playing CTFs back in 2022 after co-founding and playing alongside [organizers](https://ctftime.org/team/42934/) but occasionally help out or look into challenges out of curiosity.  
 🪪 Most notable credentials are my team's (through *[2019 excusemewtf](https://ctftime.org/team/104977/)* and *[2020-2022 organizers](https://ctftime.org/team/42934/)*) CTF rankings along with my personal ranking on [HackTheBox](https://app.hackthebox.com/profile/7533) (retired; peaked at global #2), along with the projects on my GitHub.  
 🏢 I'm currently employed as **penetration tester** and mostly focus on Active Directory environments.  
