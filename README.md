@@ -15,6 +15,7 @@
 * [dlsym_hook](https://github.com/ioncodes/dlsym_hook) - Rewrites a binary statically by lifting the instructions to LLVM, hooking a function and compiling it back
 * [DeadByDaylight](https://github.com/ioncodes/DeadByDaylight) - Dead by Daylight research material gathered while reverse engineering the game
 * [FallGuys](https://github.com/ioncodes/FallGuys) - FallGuys cheat that used internal functions present in one of the first published releases of the game
+* [NonlethalCompany](https://github.com/ioncodes/NonlethalCompany) - Lethal Company cheat that uses Harmony to change various aspects of the game (infinite sprint, no death, etc)
 * [Maze](https://github.com/ioncodes/Maze) - Cheats for "Maze", LiveOverflow's game hacking challenge
 * [docker-compiler-explorer](https://github.com/ioncodes/docker-compiler-explorer) - Dockerized version of Godbolt's Compiler Explorer preconfigured with C, C++, Rust and LLVM
 * [dbgmon](https://github.com/ioncodes/dbgmon) - Reverse engineered implementation of DbgView's usermode logger
