@@ -1,10 +1,10 @@
 👋 Looks like you've found my profile! Enjoy your stay (and don't take me too serious ^\_^)!  
 💣 I'm a **reverse engineer** and **software engineer** that mostly dabbles around in **Rust**, **C++** and various **Assembly** languages.  
-👹 I spend most of my free time working on low-level projects such as but not limited to reverse engineering software (malware, anti cheats, games, ...), writing emulators, creating reversing & exploit development related tooling and implementing compiler related programs (usually for obfuscation and/or deobfuscation).  
-🕹️ I retired from playing CTFs after co-founding and playing alongside [organizers](https://ctftime.org/team/42934/) but occasionally help out or look into challenges out of curiosity.  
+👹 I spend most of my free time working on **low-level projects** such as but not limited to reverse engineering software (malware, anti cheats, games, ...), writing emulators, creating reversing & exploit development related tooling and implementing compiler related programs (usually for obfuscation and/or deobfuscation).  
+🕹️ I **retired from playing CTFs** after co-founding and playing alongside [organizers](https://ctftime.org/team/42934/) but occasionally help out or look into challenges out of curiosity.  
 🔑 Most notable credentials are my teams' (through *[2019 excusemewtf](https://ctftime.org/team/104977/)* and *[2020-2022 organizers](https://ctftime.org/team/42934/)*) CTF rankings along with my personal ranking on [HackTheBox](https://app.hackthebox.com/profile/7533) (retired; peaked at global #2), along with the projects on my GitHub.  
 🕸️ I infrequently blog about my shenanigans over [on my blog layle.me](https://layle.me).  
-✉️ You can contact me either on [Twitter](https://twitter.com/layle_ctf) or on Discord via `mrlayle`.  
+✉️ You can contact me either on Discord via `mrlayle`.  
 
 <details>
   <summary>Here's a more exhaustive list of my work (excluding the pinned highlights)</summary>
