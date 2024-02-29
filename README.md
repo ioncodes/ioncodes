@@ -15,6 +15,7 @@
   * [rw](https://github.com/ioncodes/rw) - A kernel driver exposing read/write capabilities to usermode
   * [dlsym_hook](https://github.com/ioncodes/dlsym_hook) - Rewrites a binary statically by lifting the instructions to LLVM, hooking a function and compiling it back
   * [DeadByDaylight](https://github.com/ioncodes/DeadByDaylight) - Dead by Daylight research material gathered while reverse engineering the game
+  * [gg](https://github.com/ioncodes/gg) - WIP GameGear emulator that's able to run some games well
   * [FallGuys](https://github.com/ioncodes/FallGuys) - FallGuys cheat that used internal functions present in one of the first published releases of the game
   * [NonlethalCompany](https://github.com/ioncodes/NonlethalCompany) - Lethal Company cheat that uses Harmony to change various aspects of the game (infinite sprint, no death, etc)
   * [Maze](https://github.com/ioncodes/Maze) - Cheats for "Maze", LiveOverflow's game hacking challenge
