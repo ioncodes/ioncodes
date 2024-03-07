@@ -1,4 +1,4 @@
-👋 Looks like you've found my profile! Enjoy your stay (and don't take me too serious ^\_^)!  
+👋 Looks like you've found my profile :) Enjoy your stay!  
 💣 I'm a **reverse engineer** and **software engineer** that mostly dabbles around in **Rust**, **C++** and various **Assembly** languages.  
 👹 I spend most of my free time working on **low-level projects** such as but not limited to reverse engineering software (malware, anti cheats, games, ...), writing emulators, creating reversing & exploit development related tooling and implementing compiler related programs (usually for obfuscation and/or deobfuscation).  
 🕹️ I **retired from playing CTFs** after co-founding and playing alongside [organizers](https://ctftime.org/team/42934/) but occasionally help out or look into challenges out of curiosity.  
