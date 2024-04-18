@@ -18,6 +18,7 @@
   * [gg](https://github.com/ioncodes/gg) - WIP GameGear emulator that's able to run some games well
   * [FallGuys](https://github.com/ioncodes/FallGuys) - FallGuys cheat that used internal functions present in one of the first published releases of the game
   * [NonlethalCompany](https://github.com/ioncodes/NonlethalCompany) - Lethal Company cheat that uses Harmony to change various aspects of the game (infinite sprint, no death, etc)
+  * [Clicker Heroes](https://github.com/ioncodes/clickerheroes) - Clicker Heroes cheat that allows you to use self created redemption codes to unlock items by emulating the server response
   * [Maze](https://github.com/ioncodes/Maze) - Cheats for "Maze", LiveOverflow's game hacking challenge
   * [docker-compiler-explorer](https://github.com/ioncodes/docker-compiler-explorer) - Dockerized version of Godbolt's Compiler Explorer preconfigured with C, C++, Rust and LLVM
   * [dbgmon](https://github.com/ioncodes/dbgmon) - Reverse engineered implementation of DbgView's usermode logger
