@@ -5,6 +5,7 @@
 * personal ranking on [HackTheBox](https://app.hackthebox.com/profile/7533) peaked at global #2  
 * sometimes I ramble on my blog over @ [layle.me](https://layle.me)  
 * discord @ `mrlayle`
+* twitter @ [`layle_ctf`](https://x.com/layle_ctf)
 
 <details>
   <summary>Expand this to see a more exhaustive list of my work (excluding the pinned highlights)</summary>
