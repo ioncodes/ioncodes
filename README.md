@@ -1,4 +1,4 @@
-* reverse engineer & software engineer (Rust, C++ and Assembly mostly), working as a penetration tester & vulnerability researcher during the day  
+* reverse engineer & software engineer (Rust, C++, Assembly mostly) at night; penetration tester & vulnerability researcher during the day  
 * working on low-level projects such as emulators, game-cheats, compilers and exploits. anything low-level really  
 * currently learning hardware related topics such as FPGAs  
 * used to play tons of CTFs; I founded & co-founded [excusemewtf](https://ctftime.org/team/104977/) (2019) and [organizers](https://ctftime.org/team/42934/) (2020-2022) respectively  
