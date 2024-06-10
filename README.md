@@ -1,10 +1,10 @@
-👋 Looks like you've found my profile :) Enjoy your stay!  
-💣 I'm a **reverse engineer** and **software engineer** that mostly dabbles around in **Rust**, **C++** and various **Assembly** languages.  
-👹 I spend most of my free time working on **low-level projects** such as but not limited to reverse engineering software (malware, anti cheats, games, ...), writing emulators, creating reversing & exploit development related tooling and implementing compiler related programs (usually for obfuscation and/or deobfuscation).  
-🕹️ I **retired from playing CTFs** after co-founding and playing alongside [organizers](https://ctftime.org/team/42934/) but occasionally help out or look into challenges out of curiosity.  
-🔑 Most notable credentials are my teams' (through *[2019 excusemewtf](https://ctftime.org/team/104977/)* and *[2020-2022 organizers](https://ctftime.org/team/42934/)*) CTF rankings along with my personal ranking on [HackTheBox](https://app.hackthebox.com/profile/7533) (retired; peaked at global #2), along with the projects on my GitHub.  
-🕸️ I infrequently blog about my shenanigans over [on my blog layle.me](https://layle.me).  
-✉️ You can contact me on Discord via `mrlayle`.  
+* reverse engineer & software engineer (Rust, C++ and Assembly mostly), working as a penetration tester & vulnerability researcher during the day  
+* working on low-level projects such as emulators, game-cheats, compilers and exploits. anything low-level really  
+* currently learning hardware related topics such as FPGAs  
+* used to play tons of CTFs; I founded & co-founded *[2019 excusemewtf](https://ctftime.org/team/104977/)* and *[2020-2022 organizers](https://ctftime.org/team/42934/)* respectively  
+* personal ranking on [HackTheBox](https://app.hackthebox.com/profile/7533) peaked at global #2  
+* sometimes I ramble on my blog over @ [layle.me](https://layle.me)  
+* discord @ `mrlayle`
 
 <details>
   <summary>Expand this to see a more exhaustive list of my work (excluding the pinned highlights)</summary>
