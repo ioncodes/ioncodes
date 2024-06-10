@@ -2,7 +2,7 @@
 * working on low-level projects such as emulators, game-cheats, compilers and exploits. anything low-level really  
 * currently learning hardware related topics such as FPGAs  
 * used to play tons of CTFs; I founded & co-founded [excusemewtf](https://ctftime.org/team/104977/) (2019) and [organizers](https://ctftime.org/team/42934/) (2020-2022) respectively  
-* personal ranking on [HackTheBox](https://app.hackthebox.com/profile/7533) peaked at global #2  
+* [HackTheBox](https://app.hackthebox.com/profile/7533), peaked at global #2  
 * sometimes I ramble on my blog over @ [layle.me](https://layle.me)  
 * discord @ `mrlayle`
 * twitter @ [`layle_ctf`](https://x.com/layle_ctf)
