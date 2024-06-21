@@ -3,9 +3,9 @@
 * currently learning hardware related topics such as FPGAs  
 * used to play tons of CTFs; I founded & co-founded [excusemewtf](https://ctftime.org/team/104977/) (2019) and [organizers](https://ctftime.org/team/42934/) (2020-2022) respectively  
 * [HackTheBox](https://app.hackthebox.com/profile/7533), peaked at global #2  
-* sometimes I ramble on my blog over @ [layle.me](https://layle.me)  
-* discord @ `mrlayle`
-* twitter @ [`layle_ctf`](https://x.com/layle_ctf)
+* sometimes I ramble on my blog over at [layle.me](https://layle.me)  
+* discord at `mrlayle`
+* twitter at [`layle_ctf`](https://x.com/layle_ctf)
 
 <details>
   <summary>Expand this to see a more exhaustive list of my work (excluding the pinned highlights)</summary>
