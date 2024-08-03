@@ -27,7 +27,8 @@
   * [dbgmon](https://github.com/ioncodes/dbgmon) - Reverse engineered implementation of DbgView's usermode logger
 
   #### Emulators
-  * [gg](https://github.com/ioncodes/gg) - WIP GameGear emulator that's able to run some games well
+  * [gg](https://github.com/ioncodes/gg) - GameGear emulator
+  * [ayyboy](https://github.com/ioncodes/ayyboy) - GameBoy and GameBoy Color emulator
 
   #### Misc
   * [rw](https://github.com/ioncodes/rw) - A kernel driver exposing read/write capabilities to usermode
