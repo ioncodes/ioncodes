@@ -28,7 +28,7 @@
 
   #### Emulators
   * [gg](https://github.com/ioncodes/gg) - GameGear emulator
-  * [ayyboy](https://github.com/ioncodes/ayyboy) - GameBoy and GameBoy Color emulator
+  * [ayyboy](https://github.com/ioncodes/ayyboy) - GameBoy and GameBoy Color emulator, featuring rumble pak support for Lovense sex toys
 
   #### Misc
   * [rw](https://github.com/ioncodes/rw) - A kernel driver exposing read/write capabilities to usermode
