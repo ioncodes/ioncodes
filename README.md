@@ -1,10 +1,13 @@
-#### About me
-* reverse engineer & software engineer (Rust, C++, Assembly mostly) at night; penetration tester & vuln researcher during the day
-* working on low-level projects such as emulators, game-cheats, compilers and exploits. anything low-level really  
-* currently learning hardware related topics such as FPGAs  
-* used to play tons of CTFs; I founded & co-founded [excusemewtf](https://ctftime.org/team/104977/) (2019-2020, CH #3 pre-merge) and [organizers](https://ctftime.org/team/42934/) (2020-2022, Global #1) respectively  
-* [HackTheBox](https://app.hackthebox.com/profile/7533), peaked at global #2  
-* discord: `layle22`
+#### About Me
+* Reverse Engineer & Software Engineer during the night
+* Penetration tester & Vulnerability Researcher during the day
+* Working on low-level projects such as emulators, game-cheats, compilers and exploits. Anything low-level really  
+* Currently learning hardware related topics such as FPGAs  
+* Used to play a lot of CTFs. I founded & co-founded:
+  * [excusemewtf](https://ctftime.org/team/104977/) (2019-2020, CH #3 pre-merge)
+  * [organizers](https://ctftime.org/team/42934/) (2020-2022, Global #1)
+* Used to play a lot on [HackTheBox](https://app.hackthebox.com/profile/7533) (peaked at global #2)  
+* Discord: `layle22`
 
 <details>
   <summary>Expand this to see a more exhaustive list of a bunch of highlights (excluding the pinned ones)</summary>
