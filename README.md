@@ -5,7 +5,7 @@
 * used to play tons of CTFs; I founded & co-founded [excusemewtf](https://ctftime.org/team/104977/) (2019) and [organizers](https://ctftime.org/team/42934/) (2020-2022) respectively  
 * [HackTheBox](https://app.hackthebox.com/profile/7533), peaked at global #2  
 * sometimes I ramble on my blog over at [layle.me](https://layle.me)  
-* discord at `mrlayle`
+* discord at `layle22`
 * twitter at [`layle_ctf`](https://x.com/layle_ctf)
 
 <details>
