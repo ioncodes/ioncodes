@@ -1,6 +1,6 @@
 #### About Me
 * Reverse Engineer & Software Engineer during the night
-* Penetration tester & Vulnerability Researcher during the day
+* Penetration Tester & Vulnerability Researcher during the day
 * Working on low-level projects such as emulators, game-cheats, compilers and exploits. Anything low-level really  
 * Currently learning hardware related topics such as FPGAs  
 * Used to play a lot of CTFs. I founded & co-founded:
