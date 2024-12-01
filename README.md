@@ -26,11 +26,11 @@
   * [Curveball](https://github.com/ioncodes/Curveball) - Proof of concept code for CVE-2020-0601 also known as the "CryptoAPI exploit"
   * [BlueGate](https://github.com/ioncodes/BlueGate) - PoC for the Remote Desktop Gateway vulnerability - CVE-2020-0609 & CVE-2020-0610
   * [dbgmon](https://github.com/ioncodes/dbgmon) - Reverse engineered implementation of DbgView's usermode logger
-  * [SilentLoad](https://github.com/ioncodes/SilentLoad) - "Service-less" driver loading
 
   #### Emulators
   * [gg](https://github.com/ioncodes/gg) - GameGear emulator
   * [ayyboy](https://github.com/ioncodes/ayyboy) - GameBoy and GameBoy Color emulator, featuring rumble pak support for Lovense sex toys
+  * [llvm8](https://github.com/ioncodes/llvm8) - Statically recompiling CHIP8 to Windows and macOS using LLVM
 
   #### Misc
   * [rw](https://github.com/ioncodes/rw) - A kernel driver exposing read/write capabilities to usermode
