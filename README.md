@@ -27,7 +27,7 @@
   * [BlueGate](https://github.com/ioncodes/BlueGate) - PoC for the Remote Desktop Gateway vulnerability - CVE-2020-0609 & CVE-2020-0610
   * [dbgmon](https://github.com/ioncodes/dbgmon) - Reverse engineered implementation of DbgView's usermode logger
 
-  #### Emulators
+  #### Emulation
   * [gg](https://github.com/ioncodes/gg) - GameGear emulator
   * [ayyboy](https://github.com/ioncodes/ayyboy) - GameBoy and GameBoy Color emulator, featuring rumble pak support for Lovense sex toys
   * [llvm8](https://github.com/ioncodes/llvm8) - Statically recompiling CHIP8 to Windows and macOS using LLVM
