@@ -10,7 +10,7 @@
 * Discord: `layle22`
 
 <details>
-  <summary>Expand this to see a more exhaustive list of a bunch of highlights (excluding the pinned ones)</summary>
+  <summary>⭐ Expand this to see a more exhaustive list of a bunch of highlights (excluding the pinned ones) ⭐</summary>
 
   #### Game Hacking
   * [DeadByDaylight](https://github.com/ioncodes/DeadByDaylight) - Dead by Daylight research material gathered while reverse engineering the game
