@@ -27,7 +27,7 @@
   * [BlueGate](https://github.com/ioncodes/BlueGate) - PoC for the Remote Desktop Gateway vulnerability - CVE-2020-0609 & CVE-2020-0610
   * [dbgmon](https://github.com/ioncodes/dbgmon) - Reverse engineered implementation of DbgView's usermode logger
 
-  ### Low-level
+  #### Low-level
   * [dlsym_hook](https://github.com/ioncodes/dlsym_hook) - Rewrites a binary statically by lifting the instructions to LLVM, hooking a function and compiling it back
   * [ida-teams-docker](ida-teams-docker) - Dockerized version of IDA Pro's Hexvault and Lumina
   * [docker-compiler-explorer](https://github.com/ioncodes/docker-compiler-explorer) - Dockerized version of Godbolt's Compiler Explorer preconfigured with C, C++, Rust and LLVM
