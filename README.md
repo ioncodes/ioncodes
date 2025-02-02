@@ -1,11 +1,11 @@
 #### About Me
-* Penetration Tester during the day
-* Reverse Engineer and Vulnerability Researcher during the night (usually)
+* Penetration Tester and Vulnerability Researcher during the day
+* Reverse Engineer during the night
 * Tinkering with low-level projects during my free time (emulators, obfuscation, Windows internals, ...) 
 * Used to play a lot of CTFs:
   * Founded [excusemewtf](https://ctftime.org/team/104977/): 2019-2020, CH #3 pre-merge
   * Co-founded [organizers](https://ctftime.org/team/42934/): 2020-2022, peaked global #1
-  * Retired on [HackTheBox](https://app.hackthebox.com/profile/7533): 2019-ish, peaked global #2  
+  * Omniscient on [HackTheBox](https://app.hackthebox.com/profile/7533): 2019-ish, peaked global #2  
 * Discord: `layle22`
 
 <details>
