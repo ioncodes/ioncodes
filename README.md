@@ -14,7 +14,7 @@
  #### Emulation
   * [gg](https://github.com/ioncodes/gg) - GameGear emulator
   * [ayyboy](https://github.com/ioncodes/ayyboy) - GameBoy and GameBoy Color emulator, featuring rumble pak support :)
-  * [ayyboy-advance](https://github.com/ioncodes/ayyboy-advance) WIP GameBoy Advance emulator, able to boot into some test roms
+  * [ayyboy-advance](https://github.com/ioncodes/ayyboy-advance) - WIP GameBoy Advance emulator, able to boot into some test roms
   * [llvm8](https://github.com/ioncodes/llvm8) - Statically recompiling CHIP8 to Windows and macOS using LLVM
  
   #### Research
