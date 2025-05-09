@@ -17,10 +17,15 @@
   * [ayyboy-advance](https://github.com/ioncodes/ayyboy-advance) - WIP GameBoy Advance emulator, able to boot into some test roms
   * [llvm8](https://github.com/ioncodes/llvm8) - Statically recompiling CHIP8 to Windows and macOS using LLVM
  
-  #### Research
+  #### Research & Low-Level
   * [Curveball](https://github.com/ioncodes/Curveball) - Proof of concept code for CVE-2020-0601 also known as the "CryptoAPI exploit"
   * [BlueGate](https://github.com/ioncodes/BlueGate) - PoC for the Remote Desktop Gateway vulnerability - CVE-2020-0609 & CVE-2020-0610
+  * [noviy_nocd](https://github.com/ioncodes/noviy_nocd) - Universal No-CD patcher for games protected by Noviy Disk's custom DRM solution
   * [dbgmon](https://github.com/ioncodes/dbgmon) - Reverse engineered implementation of DbgView's usermode logger
+  * [dlsym_hook](https://github.com/ioncodes/dlsym_hook) - Rewrites a binary statically by lifting the instructions to LLVM, hooking a function and compiling it back
+  * [rw](https://github.com/ioncodes/rw) - A kernel driver exposing read/write capabilities to usermode
+  * [pooldump](https://github.com/ioncodes/pooldump) - Allows you to dump all nonpaged `BigPool`s from kernel
+  * [SteamManifestFixer](https://github.com/ioncodes/SteamManifestFixer) - Patches Steam to download depot files without manifest data
 
   #### Game Hacking
   * [DeadByDaylight](https://github.com/ioncodes/DeadByDaylight) - Dead by Daylight research material gathered while reverse engineering the game
@@ -32,16 +37,12 @@
   * [ESP-It](https://github.com/ioncodes/ESP-It) - ESP for Witch It
   * [Clicker Heroes](https://github.com/ioncodes/clickerheroes) - Clicker Heroes redemption code emulator
 
-  #### Low-level
-  * [dlsym_hook](https://github.com/ioncodes/dlsym_hook) - Rewrites a binary statically by lifting the instructions to LLVM, hooking a function and compiling it back
+  #### Tooling & Automation
   * [ida-teams-docker](ida-teams-docker) - Dockerized version of IDA Pro's Hexvault and Lumina
   * [docker-compiler-explorer](https://github.com/ioncodes/docker-compiler-explorer) - Dockerized version of Godbolt's Compiler Explorer preconfigured with C, C++, Rust and LLVM
-  * [rw](https://github.com/ioncodes/rw) - A kernel driver exposing read/write capabilities to usermode
-  * [pooldump](https://github.com/ioncodes/pooldump) - Allows you to dump all nonpaged `BigPool`s from kernel
 
   #### Miscellaneous
   * [long_night](https://github.com/ioncodes/long_night) - A collection of themes based on pastel colors, created for reverse engineers
-  * [SteamManifestFixer](https://github.com/ioncodes/SteamManifestFixer) - Patches Steam to download depot files without manifest data
   * [sbb](https://github.com/ioncodes/sbb) - A commandline tool that allows you to check the public transportation connection via SBB
   * [JodelAPI](https://github.com/ioncodes/JodelAPI) - A wrapper for Jodel's API
 </details>
