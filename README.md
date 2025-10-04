@@ -1,6 +1,6 @@
 #### About Me
-* Penetration Tester and Vulnerability Researcher during the day
-* Reverse Engineer during the night
+* Senior Red Team Operator during the day
+* Reverse Engineer and Vulnerability Researcher during the night
 * Tinkering with low-level projects during my free time (emulators, obfuscation, Windows internals, ...) 
 * Used to play a lot of CTFs:
   * Founded [excusemewtf](https://ctftime.org/team/104977/): 2019-2020, CH #3 pre-merge
