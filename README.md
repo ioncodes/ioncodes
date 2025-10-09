@@ -43,6 +43,7 @@
 
   #### Miscellaneous
   * [long_night](https://github.com/ioncodes/long_night) - A collection of themes based on pastel colors, created for reverse engineers
+  * [tracing-viewer](https://github.com/ioncodes/tracing-viewer) - A beautiful trace explorer with filtering capabilities. To be used along with Rust's `tracing-subscriber`. 
   * [sbb](https://github.com/ioncodes/sbb) - A commandline tool that allows you to check the public transportation connection via SBB
   * [JodelAPI](https://github.com/ioncodes/JodelAPI) - A wrapper for Jodel's API
 </details>
