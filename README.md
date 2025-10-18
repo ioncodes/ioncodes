@@ -14,8 +14,9 @@
  #### Emulation
   * [ayyboy-advance](https://github.com/ioncodes/ayyboy-advance) - GameBoy Advance emulator, ayyboy's big brother
   * [ayyboy](https://github.com/ioncodes/ayyboy) - GameBoy and GameBoy Color emulator, featuring rumble pak support :)
+  * [pspsps](https://github.com/ioncodes/pspsps) - A WIP PlayStation 1 emulator
   * [gg](https://github.com/ioncodes/gg) - GameGear emulator, partial support for Sega Master System
-  * [llvm8](https://github.com/ioncodes/llvm8) - Statically recompiling CHIP8 to Windows and macOS using LLVM
+  * [llvm8](https://github.com/ioncodes/llvm8) - A static recompiler for CHIP8 targeting Windows and macOS using LLVM
  
   #### Research & Low-Level
   * [Curveball](https://github.com/ioncodes/Curveball) - Proof of concept code for CVE-2020-0601 also known as the "CryptoAPI exploit"
