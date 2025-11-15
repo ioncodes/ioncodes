@@ -15,7 +15,7 @@
   * [ayyboy-advance](https://github.com/ioncodes/ayyboy-advance) - GameBoy Advance emulator and debugger, ayyboy's big brother
   * [ayyboy](https://github.com/ioncodes/ayyboy) - GameBoy and GameBoy Color emulator, featuring rumble pak support :)
   * [pspsps](https://github.com/ioncodes/pspsps) - A PlayStation 1 emulator and debugger, shaders included
-  * [gg](https://github.com/ioncodes/gg) - GameGear emulator, partial support for Sega Master System
+  * [gg](https://github.com/ioncodes/gg) - GameGear emulator, with partial support for Sega Master System
   * [llvm8](https://github.com/ioncodes/llvm8) - A static recompiler for CHIP8 targeting Windows and macOS using LLVM
  
   #### Research & Low-Level
