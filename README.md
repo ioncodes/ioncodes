@@ -17,7 +17,8 @@
   * [pspsps](https://github.com/ioncodes/pspsps) - A PlayStation 1 emulator and debugger, shaders included
   * [gg](https://github.com/ioncodes/gg) - GameGear emulator, with partial support for Sega Master System
   * [llvm8](https://github.com/ioncodes/llvm8) - A static recompiler for CHIP8 targeting Windows and macOS using LLVM
- 
+  * [chipi](https://github.com/ioncodes/chipi) - A declarative instruction decoder and disassembler generator using a custom DSL
+
   #### Research & Low-Level
   * [Curveball](https://github.com/ioncodes/Curveball) - Proof of concept code for CVE-2020-0601 also known as the "CryptoAPI exploit"
   * [BlueGate](https://github.com/ioncodes/BlueGate) - PoC for the Remote Desktop Gateway vulnerability - CVE-2020-0609 & CVE-2020-0610
