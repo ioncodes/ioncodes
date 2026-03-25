@@ -18,6 +18,7 @@
   * [gg](https://github.com/ioncodes/gg) - GameGear emulator, with partial support for Sega Master System
   * [llvm8](https://github.com/ioncodes/llvm8) - A static recompiler for CHIP8 targeting Windows and macOS using LLVM
   * [chipi](https://github.com/ioncodes/chipi) - A declarative instruction decoder and disassembler generator using a custom DSL
+  * [chapa](https://github.com/ioncodes/chapa) - Bitfield structs, batteries included
 
   #### Research & Low-Level
   * [Curveball](https://github.com/ioncodes/Curveball) - Proof of concept code for CVE-2020-0601 also known as the "CryptoAPI exploit"
