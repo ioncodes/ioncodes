@@ -12,6 +12,7 @@
   <summary>⭐ Expand this to see a more exhaustive list of a bunch of highlights (excluding the pinned ones) ⭐</summary>
   
  #### Emulation
+  * [gecko](https://github.com/ioncodes/gecko) - A GameCube/Wii emulator and debugger written in Rust
   * [ayyboy-advance](https://github.com/ioncodes/ayyboy-advance) - GameBoy Advance emulator and debugger, ayyboy's big brother
   * [ayyboy](https://github.com/ioncodes/ayyboy) - GameBoy and GameBoy Color emulator, featuring rumble pak support :)
   * [pspsps](https://github.com/ioncodes/pspsps) - A PlayStation 1 emulator and debugger, shaders included
