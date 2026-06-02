@@ -3,7 +3,7 @@
 * Reverse Engineer and Vulnerability Researcher during the night
 * Tinkering with low-level projects during my free time (emulators, obfuscation, Windows internals, ...) 
 * Used to play a lot of CTFs:
-  * Founded [excusemewtf](https://ctftime.org/team/104977/): 2019-2020, CH #3 pre-merge
+  * Founded [excusemewtf](https://ctftime.org/team/104977/): 2019-2020, CH #1 pre-merge
   * Co-founded [organizers](https://ctftime.org/team/42934/): 2020-2022, peaked global #1
   * Omniscient on [HackTheBox](https://app.hackthebox.com/profile/7533): 2019-ish, peaked global #2  
 * Discord: `layle22`
@@ -18,8 +18,6 @@
   * [pspsps](https://github.com/ioncodes/pspsps) - A PlayStation 1 emulator and debugger, shaders included
   * [gg](https://github.com/ioncodes/gg) - GameGear emulator, with partial support for Sega Master System
   * [llvm8](https://github.com/ioncodes/llvm8) - A static recompiler for CHIP8 targeting Windows and macOS using LLVM
-  * [chipi](https://github.com/ioncodes/chipi) - A declarative instruction decoder and disassembler generator using a custom DSL
-  * [chapa](https://github.com/ioncodes/chapa) - Bitfield structs, batteries included
 
   #### Research & Low-Level
   * [Curveball](https://github.com/ioncodes/Curveball) - Proof of concept code for CVE-2020-0601 also known as the "CryptoAPI exploit"
@@ -30,6 +28,10 @@
   * [rw](https://github.com/ioncodes/rw) - A kernel driver exposing read/write capabilities to usermode
   * [pooldump](https://github.com/ioncodes/pooldump) - Allows you to dump all nonpaged `BigPool`s from kernel
   * [SteamManifestFixer](https://github.com/ioncodes/SteamManifestFixer) - Patches Steam to download depot files without manifest data
+
+  #### Libraries & Frameworks
+  * [chipi](https://github.com/ioncodes/chipi) - A declarative instruction decoder and disassembler generator using a custom DSL
+  * [chapa](https://github.com/ioncodes/chapa) - Bitfield structs, batteries included
 
   #### Game Hacking
   * [DeadByDaylight](https://github.com/ioncodes/DeadByDaylight) - Dead by Daylight research material gathered while reverse engineering the game
